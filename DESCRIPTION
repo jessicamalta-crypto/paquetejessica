@@ -1,7 +1,8 @@
-#' Suma dos números
-#' @param a Primer número
-#' @param b Segundo número
-#' @export
-suma.dos.numeros <- function(a, b) {
-  return(a + b)
-}
+Package: paquetejessica
+Title: Paquete de Prueba Unidad VIII
+Version: 0.1.0
+Author: Jessica Malta
+Description: Un paquete sencillo para sumar numeros.
+License: MIT
+Encoding: UTF-8
+LazyData: true
